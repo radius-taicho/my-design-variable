@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01_Theory/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01_Theory/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01_Theory/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "01_Theory/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,8 +184,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0b5df1f28c1a55b",
+  "active": "329054f81690778e",
   "lastOpenFiles": [
+    "README.md",
     "_Variables/README.md",
     "Templates/project-template.md",
     "Templates/note-template.md",
@@ -199,7 +200,6 @@
     "04_Analog",
     "03_Business",
     "02_Practice/Hearing",
-    "02_Practice/Projects",
-    "README.md"
+    "02_Practice/Projects"
   ]
 }
