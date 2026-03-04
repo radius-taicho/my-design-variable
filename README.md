@@ -1,2 +1,33 @@
 # my-design-variable
-My personal design knowledge base — theories, practice, and variables that shape my craft.
+
+> 自分だけのデザイン総合ナレッジベース。
+> 理論を学び、実務で試し、自分の変数を見つける。
+
+---
+
+## 構造
+
+| フォルダ | 内容 |
+|---|---|
+| 01_Theory | 色彩・タイポ・レイアウト・心理学・アカデミック |
+| 02_Practice | 案件記録・ヒアリング・スキル・作業効率化 |
+| 03_Business | SEO・ビジネスデザイン |
+| 04_Analog | 絵画・インスピレーション・日常のデザイン観察 |
+| 05_References | 好きなサイト・デザイン分析 |
+| 06_Tech | 最新ツール・AI活用 |
+| 07_Projects | 自分のプロジェクト・ブレスト |
+| 08_Career | ポートフォリオ・転職準備 |
+| _Variables | ★自分のデザイン変数（核心） |
+| Templates | ノートテンプレート |
+
+---
+
+## ノートの書き方
+- すべてのノートに **「自分メモ」** セクションを入れる
+- `[[ノート名]]` でカテゴリをまたいで繋げる
+- タグで横断検索できるようにする
+
+---
+
+## 自分のデザイン変数
+→ [[_Variables/README]]
