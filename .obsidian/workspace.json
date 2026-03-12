@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Theory/README.md",
+                "file": "_Variables/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,25 +180,34 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:新規ベースを作成": false
+      "bases:新規ベースを作成": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "329054f81690778e",
+  "active": "f0b5df1f28c1a55b",
   "lastOpenFiles": [
-    "README.md",
-    "_Variables/README.md",
-    "Templates/project-template.md",
-    "Templates/note-template.md",
-    "Templates",
+    "01_Theory/Typography/rounded-typeface-psychology.md",
     "01_Theory/README.md",
-    "_Variables",
+    "08_Career/README.md",
+    "07_Projects/README.md",
+    "06_Tech/README.md",
+    "05_References/README.md",
+    "04_Analog/README.md",
+    "03_Business/README.md",
+    "_Variables/README.md",
+    "02_Practice/README.md",
     "08_Career",
     "07_Projects",
+    "06_Tech/AI",
+    "06_Tech/Tools",
     "06_Tech",
+    "05_References/Analysis",
+    "README.md",
+    "05_References/Favorites",
     "05_References",
-    "04_Analog",
-    "03_Business",
-    "02_Practice/Hearing",
-    "02_Practice/Projects"
+    "04_Analog/DailyObservation",
+    "04_Analog/Inspiration",
+    "Templates/project-template.md",
+    "Templates/note-template.md"
   ]
 }
