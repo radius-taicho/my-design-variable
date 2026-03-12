@@ -1,9 +1,9 @@
-# ノートテンプレート
+# ノートタイトル
 
 ---
-tags: [theory/color, theory/typography, practice, business, reference]
+tags: []
 date: YYYY-MM-DD
-source: URL or 書籍名
+source: 
 ---
 
 ## 概要
@@ -13,10 +13,9 @@ source: URL or 書籍名
 <!-- 学んだこと・まとめた情報 -->
 
 ## 自分メモ
-<!-- ★ここが一番大事 -->
 <!-- 自分はどう思ったか -->
-<!-- 実務での経験と紐づくか -->
-<!-- 他のノートとの繋がり → [[ノート名]] -->
+<!-- 実務との繋がり -->
+<!-- 仮説の定数として引っかかるものがあれば → [[_Variables/hypothesis-variables]] へ -->
 
 ## 関連ノート
 - [[]]

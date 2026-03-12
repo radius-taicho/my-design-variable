@@ -186,9 +186,11 @@
   },
   "active": "f0b5df1f28c1a55b",
   "lastOpenFiles": [
+    "_Variables/my-variables.md",
     "_Variables/hypothesis-variables.md",
     "README.md",
-    "_Variables/my-variables.md",
+    "Templates/note-template.md",
+    "Templates/project-template.md",
     "_Variables/README.md",
     "_Variables/confirmed-variables.md",
     "01_Theory/Typography/rounded-typeface-psychology.md",
@@ -209,8 +211,6 @@
     "05_References/Favorites",
     "05_References",
     "04_Analog/DailyObservation",
-    "04_Analog/Inspiration",
-    "Templates/project-template.md",
-    "Templates/note-template.md"
+    "04_Analog/Inspiration"
   ]
 }
