@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Variables/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,8 +186,8 @@
   },
   "active": "f0b5df1f28c1a55b",
   "lastOpenFiles": [
-    "README.md",
     "_Variables/hypothesis-variables.md",
+    "README.md",
     "_Variables/my-variables.md",
     "_Variables/README.md",
     "_Variables/confirmed-variables.md",
