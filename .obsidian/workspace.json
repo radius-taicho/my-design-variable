@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Variables/README.md",
+                "file": "_Variables/hypothesis-variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "hypothesis-variables"
             }
           }
         ]
@@ -186,6 +186,10 @@
   },
   "active": "f0b5df1f28c1a55b",
   "lastOpenFiles": [
+    "_Variables/my-variables.md",
+    "_Variables/README.md",
+    "_Variables/hypothesis-variables.md",
+    "_Variables/confirmed-variables.md",
     "01_Theory/Typography/rounded-typeface-psychology.md",
     "01_Theory/README.md",
     "08_Career/README.md",
@@ -194,7 +198,6 @@
     "05_References/README.md",
     "04_Analog/README.md",
     "03_Business/README.md",
-    "_Variables/README.md",
     "02_Practice/README.md",
     "08_Career",
     "07_Projects",
