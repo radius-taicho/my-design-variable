@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/project-template.md",
+                "file": "08_Career/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project-template"
+              "title": "README"
             }
           }
         ]
@@ -186,14 +186,18 @@
   },
   "active": "f0b5df1f28c1a55b",
   "lastOpenFiles": [
-    "README.md",
+    "3654711_m.jpg",
+    "08_Career/README.md",
+    "07_Projects/README.md",
+    "07_Projects/ALT-TEN/map-and-areas.md",
+    "07_Projects/ALT-TEN/overview.md",
     "Templates/project-template.md",
     "Templates/note-template.md",
+    "README.md",
+    "07_Projects/ALT-TEN",
     "01_Theory/README.md",
     "_Variables/my-variables.md",
     "_Variables/hypothesis-variables.md",
-    "08_Career/README.md",
-    "07_Projects/README.md",
     "06_Tech/README.md",
     "05_References/README.md",
     "04_Analog/README.md",
@@ -209,7 +213,6 @@
     "06_Tech",
     "05_References",
     "04_Analog",
-    "03_Business",
-    "02_Practice/Hearing"
+    "03_Business"
   ]
 }
