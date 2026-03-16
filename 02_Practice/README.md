@@ -7,6 +7,7 @@
 - Hearing/ — ヒアリングの流れ・改善点
 - Skills/ — 習得したスキルのまとめ
 - Efficiency/ — 作業効率化のTips
+  - Flow/ — 案件着手から公開までの作業フロー（※ Git管理外・プライベート）
 
 ## ノートの書き方
 案件ノートは project-template.md を使うこと。

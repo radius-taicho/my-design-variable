@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08_Career/README.md",
+                "file": "02_Practice/flow01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "flow01"
             }
           }
         ]
@@ -186,8 +186,13 @@
   },
   "active": "f0b5df1f28c1a55b",
   "lastOpenFiles": [
-    "3654711_m.jpg",
+    "02_Practice/Efficiency/Flow/flow01.md",
+    "02_Practice/Efficiency/Flow",
+    "02_Practice/README.md",
+    "02_Practice/Efficiency",
+    "02_Practice/flow01.md",
     "08_Career/README.md",
+    "3654711_m.jpg",
     "07_Projects/README.md",
     "07_Projects/ALT-TEN/map-and-areas.md",
     "07_Projects/ALT-TEN/overview.md",
@@ -202,7 +207,6 @@
     "05_References/README.md",
     "04_Analog/README.md",
     "03_Business/README.md",
-    "02_Practice/README.md",
     "01_Theory/Typography/rounded-typeface-psychology.md",
     "01_Theory/Typography",
     "_Variables/README.md",
@@ -211,8 +215,6 @@
     "08_Career",
     "07_Projects",
     "06_Tech",
-    "05_References",
-    "04_Analog",
-    "03_Business"
+    "05_References"
   ]
 }
